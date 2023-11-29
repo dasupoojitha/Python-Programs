@@ -1,0 +1,15 @@
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
+c=int(input("enter the the value of c:"))
+print(++c)
+d=c+1
+print(d)
+e=int(input("enter the the value of e:"))
+print(--e)
+f=e-1
+print(f)
